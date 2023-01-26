@@ -1,0 +1,9 @@
+bad:mala
+good:buena
+hey:hola
+home:casa
+is:es
+thanks:gracias
+tourist:turista
+travel:viajar
+weather:clima
