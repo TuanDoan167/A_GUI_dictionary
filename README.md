@@ -1,4 +1,4 @@
-# A_GUI_dictionary
+# A dictionary in GUI
 
 
 First, the program asks for an txt input file to read from. Each line of the file should have the formart: a word in english: translation in Spanish
